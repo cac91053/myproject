@@ -1,0 +1,23 @@
+package yuchia.com;
+
+import java.util.Scanner;
+
+public class Tstair {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("請使用者輸入一個數字，印出階梯型的星號");
+		Scanner scanner = new Scanner(System.in);
+		String line = scanner.nextLine();
+		int c = Integer.parseInt(line);
+		for(int a =1 ; a <= c ; a++) {
+	    for(int b = 1 ; b <=c ; b++ ){
+	    System.out.print(" ");
+	   
+	    System.out.print("*");
+	    }
+	    System.out.println();
+	    }
+ }
+}
+}

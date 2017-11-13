@@ -1,0 +1,10 @@
+package yuchia.com;
+
+public class Tstair {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("請使用者輸入一個數字，印出階梯型的星號");
+	}
+
+}

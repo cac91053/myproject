@@ -1,0 +1,13 @@
+package yuchia.com;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("問題以下誰年紀最大?");
+		System.out.println("1.周杰倫");
+
+
+	}
+
+}
